@@ -13,9 +13,13 @@
 </div>
  
 <br>
- 
-### Pra conteúdo me segue na rede abaixo!
+
+
+### Para contato dê uma olhada nas redes abaixo!
  
 <div>
-  <a href="https://www.linkedin.com/in/Samuel-alves2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Samuel-alves2003" target="_blank"><img src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" width="100" height="64" target target="_blank"></a>
+ <a href = "samalves2003@outlook.com.com"><img src="https://logosmarcas.net/imageup/Outlook/Outlook_(4).png" width="100" height="64" target="_blank"></a>
+<a href = "https://wa.me/5571987364634?text=Oi+Samuel%21+Vi+seu+contato+no+GitHub+e+me+interessei+por+meio+de+seus+projetos."><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslkHhS5UuqIZ0Ss24GHqFGFFqLCJwqI7HDw&usqp=CAU" width="100" height="64" target="_blank"></a>
 </div>
+
